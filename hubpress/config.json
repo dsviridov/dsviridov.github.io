@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dsviridov",
-    "repositoryName": "dsviridov.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"dsviridov","repositoryName":"dsviridov.github.io","branch":"master","cname":"aksme"},"site":{"url":"http://aksme"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://dsviridov.github.io/themes/Casper"}}
